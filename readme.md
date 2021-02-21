@@ -10,6 +10,8 @@
 |   `head - tail`   |               |
 |  `fixed - fluid`  |               |
 | `prefix - suffix` |               |
+|  `north - south`  |               |
+|   `east - west`   |               |
 
 ## Contribute
 
