@@ -7,6 +7,7 @@
 |    `old - new`    |               |
 |    `get - set`    |               |
 |   `pull - push`   |               |
+|   `head - tail`   |               |
 |  `fixed - fluid`  |               |
 | `prefix - suffix` |               |
 
