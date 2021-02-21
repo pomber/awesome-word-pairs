@@ -7,6 +7,8 @@
 | prefix - suffix |               |
 |    old - new    |               |
 |  fixed - fluid  |               |
+|    get - set    |               |
+|   pull - push   |               |
 
 ## Contribute
 
