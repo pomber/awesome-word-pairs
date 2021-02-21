@@ -4,11 +4,11 @@
 
 |       Pair        | Related Words |
 | :---------------: | ------------- |
-| `prefix - suffix` |               |
 |    `old - new`    |               |
-|  `fixed - fluid`  |               |
 |    `get - set`    |               |
 |   `pull - push`   |               |
+|  `fixed - fluid`  |               |
+| `prefix - suffix` |               |
 
 ## Contribute
 
