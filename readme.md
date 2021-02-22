@@ -1,6 +1,6 @@
 # Awesome Word Pairs
 
-> Opposite word pairs with the same number of letters, ideal for naming your variables.
+> Opposite word pairs with the same number of letters, ideal for naming your variables. Here are a few examples, the entire list is in the `list.csv` file.
 
 |       Pair        | Related Words |
 | :---------------: | ------------- |
