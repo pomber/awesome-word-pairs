@@ -13,6 +13,7 @@
 |  `fixed - fluid`  |               |
 |  `fresh - stale`  |               |
 | `prefix - suffix` |               |
+| `raster - vector` |               |
 
 ## Contribute
 
