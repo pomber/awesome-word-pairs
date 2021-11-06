@@ -15,6 +15,7 @@
 |   `prefix - suffix`   |               |
 |   `raster - vector`   |               |
 | `positive - negative` |               |
+| `accepted - declined` |               |
 
 ## Contribute
 
